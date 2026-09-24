@@ -1,2 +1,2 @@
-# prakash-portfolio
+# Prakash-portfolio
 Portfolio projects
